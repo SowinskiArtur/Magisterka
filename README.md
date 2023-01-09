@@ -1,15 +1,15 @@
 1. Opis problemu
-    Praca dotyczyć będzie utworzenia modelu mającego na celu klasyfikacje ofert produktowych na platformie e-commerce. Na platformie z której biorę dane rózni klienci
+    * Praca dotyczyć będzie utworzenia modelu mającego na celu klasyfikacje ofert produktowych na platformie e-commerce. Na platformie z której biorę dane rózni klienci
 dodają różne produkty, często z własnymi drzewami kategorii, które jednak trzeba ujednolicić. Moja praca ma na celu zautomatyzowanie tego procesu, tak aby produkty
 były kategoryzowane od razu po ich dodaniu, a praca ludzi została ograniczona do sprawdzania poprawności działania modelu.
 2. Dlaczego problem jest ważny?
-    Zautomatyzowanie tego procesu może pozwolić na ograniczenie kosztów pracy, a nawet zwiększenie efektywności klasyfikacji.
+    * Zautomatyzowanie tego procesu może pozwolić na ograniczenie kosztów pracy, a nawet zwiększenie efektywności klasyfikacji.
 3. Hipotezy badawcze
     * Lepsze wyniki będzie przyjmował model uczony na danych przetłumaczonych niż polskich.
     * Zastosowanie transformerów znacząco zwiększy skuteczność modelu.
 4. Metody badawcze, zastosowane dane
-    Metody: tf-idf, transformers, pretrained models
-    Dane: dane będą pochodziły z bazy firmy (do ustalenia czy mogę pokazać dane produkcyjne, czy będę musiał użyć danych testowych/wygenerować dane)
+    * Metody: tf-idf, transformers, pretrained models
+    * Dane: dane będą pochodziły z bazy firmy (do ustalenia czy mogę pokazać dane produkcyjne, czy będę musiał użyć danych testowych/wygenerować dane)
 5. Układ pracy
     1. Wstęp
         * opis jaką wartość biznesową może wprowadzić lepsze skategoryzowanie oferty produktowej na platformie e-commerce
